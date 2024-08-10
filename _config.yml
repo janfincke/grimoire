@@ -4,5 +4,4 @@ theme: just-the-docs
 
 url: https://grimoire.jamppa.it
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+nav_enabled: true
